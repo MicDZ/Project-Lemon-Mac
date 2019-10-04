@@ -22,4 +22,5 @@
 3. 生成
 
 > qmake lemon.pro
+>
 > make
