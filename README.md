@@ -24,3 +24,7 @@
 > qmake lemon.pro
 >
 > make
+
+然后直接双击运行源代码目录下的lemon
+
+如果要更改图标可以百度
